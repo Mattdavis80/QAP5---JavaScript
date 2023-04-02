@@ -1,0 +1,37 @@
+[
+  {
+    "fName": "Walter",
+    "lName": "White",
+    "streetName": "Heisenberg",
+    "previousProfession": "Chemistry Teacher",
+    "newProfession": "Meth Producer and Distributer"
+  },
+  {
+    "fName": "Jesse",
+    "lName": "Pinkman",
+    "streetName": "Cap'n Cook",
+    "previousProfession": "Unknown",
+    "newProfession": "Meth Producer"
+  },
+  {
+    "fName": "Mike",
+    "lName": "Ehrmantraut",
+    "streetName": "Uncle Fester",
+    "previousProfession": "Ticket Booth guard",
+    "newProfession": "Head of Security at Los Pollos Hermanos"
+  },
+  {
+    "fName": "Gustavo",
+    "lName": "Fring",
+    "streetName": "The Chicken Man",
+    "previousProfession": "Los Pollos Hermanos Manager",
+    "newProfession": "Drug Kingpin"
+  },
+  {
+    "fName": "Jimmy",
+    "lName": "McGill",
+    "streetName": "Slippin' Jimmy",
+    "previousProfession": "Con artist",
+    "newProfession": "Public Defense Attorney"
+  }
+]
